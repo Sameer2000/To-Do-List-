@@ -1,7 +1,7 @@
 # To-Do-List-
 
 # ABOUT
-This is a To Do List Project in which user can add any task of any category for a particular date. The data that user entered will be stored in a database. You can access this web application by running it on localhost:3000 
+This is a To Do List Project in which user can add any task of any category for a particular date. The data that user entered will be stored in a database. You can access this web application by running it on localhost:3000 after installing express.
 
 # TECHSTACK
 Node.Js, HTML, CSS, MongoDB, Express.Js
